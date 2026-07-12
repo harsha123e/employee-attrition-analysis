@@ -1,0 +1,13 @@
+# VS Code
+.vscode/
+
+# Power BI temporary files
+*.pbix.lock
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python cache (safe even if unused)
+__pycache__/
+*.pyc
