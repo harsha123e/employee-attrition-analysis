@@ -38,6 +38,16 @@ Determine whether travel requirements are associated with increased employee tur
 
 ---
 
+### 🎯 Data Selection & Strategy
+
+With over 35 columns available in the raw dataset, a deliberate decision was made to isolate only **actionable operational levers**. 
+
+* **Excluded Variables:** Demographics (Age, Gender) were excluded to maintain ethical hiring frameworks. Static variables like Education Field were omitted after exploratory analysis showed no significant correlation with turnover.
+
+* **Included Variables:** Focused heavily on Job Role, Work Experience, and Business Travel because these represent specific parameters that HR managers can actively filter for, modify, or address during recruitment and onboarding.
+
+---
+
 ## Tools Used
 
 - Microsoft Excel
