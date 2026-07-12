@@ -38,7 +38,7 @@ Determine whether travel requirements are associated with increased employee tur
 
 ---
 
-### 🎯 Data Selection & Strategy
+## Data Selection & Strategy
 
 With over 35 columns available in the raw dataset, a deliberate decision was made to isolate only **actionable operational levers**. 
 
