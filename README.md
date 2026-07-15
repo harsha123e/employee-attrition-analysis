@@ -1,4 +1,4 @@
-# Employee Attrition Analysis Dashboard
+# Employee Attrition Analysis
 
 An interactive HR analytics dashboard built using **Excel** and **Power BI** to analyze employee attrition and identify actionable hiring and retention insights.
 
